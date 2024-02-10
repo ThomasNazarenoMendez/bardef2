@@ -1,0 +1,24 @@
+Cosas para agrear en caso de que quieran los chicos
+
+   border: 2px solid white;
+   box-shadow: inset 0 0 5px gold, 0 0 10px gold;
+   border-radius: 60px;
+   max-width: 400px;
+   margin: auto;
+   padding: 20 px;
+
+
+<div class="titulo">
+  <h1>Nuestra especialidad</h1>
+  <p class="pizza">Pizza Napoletana  <img class="" src="carta1111/bandera.png"></p>
+</div>
+
+<ul class="listaPizza" id="pizza"></ulclass>>
+  <li><h2>Marinara</h2><p>Pomodoro italiano, ajo en laminas, aceite de oliva extra virgen y oregano.</p></li>
+  <li><h2>Margherita</h2><p>Pomodoro italiano, mozzarela fior di latte, albahaca y aceite de oliva extra virgen.</p></li>
+  <li><h2>Pomodorini</h2><p>Ponodoro italiano, mozzarela fior di latte, tomates cherry confitados, albahaca y aceite de oliva extra virgen.</p></li>
+  <li><h2>Cipolla</h2><p>Crema, mozzarela fior di latte, cebolla morada asada, provolone y aceite de oliva extra virgen.</p></li>
+  <li><h2>Prociuto Cotto</h2><p>Pomodoro italiano, mozzarela fior di latte, jamon natural, morrones asados y aceite de oliva extra virgen.</p></li>
+  <li><h2>4 Formaggi</h2><p>Crema, mozzarela fior di latte, roquefort, provolone y bococcini (preguntar)</p></li>
+  <li><h2>Diavola</h2><p>Pomodoro italiano, mozzarela fior di latte, pepperoni y oregano.</p></li>
+</ul>
