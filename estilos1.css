@@ -6,8 +6,11 @@
  }
 
  body{
-    background-image: url(carta1111/fondo.jpg);
-    background-size: contain;
+   background-image: url(carta1111/fondo.jpg);
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;
+
  }
  
 .nav{
@@ -33,12 +36,12 @@
  }
  
  .logo{
-    width: 100%;
-    height: auto;
+    width: 300px;
+    height: 300px;
  }
 
  .neon{
-    font-size: 80px;
+    font-size: 60px;
     text-shadow: 0 0 5px #ffc107, 0 0 15px #ffc107, 0 0 30px #ffc107, 0 0 50px #ffc107;
     margin-bottom: 2rem;
     font-family: 'Neonderthaw', cursive;
@@ -51,7 +54,7 @@
  
  
  .neon2{
-    font-size: 70px;
+    font-size: 60px;
     text-shadow: 0 0 5px #ffc107, 0 0 15px #ffc107, 0 0 30px #ffc107, 0 0 50px #ffc107;
     font-family: 'Neonderthaw', cursive;
  }
